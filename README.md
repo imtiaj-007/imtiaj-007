@@ -1,8 +1,8 @@
-<h2>Hi, I'm SK Imtiaj Uddin! 
+<h2>👋 Hi, I'm SK Imtiaj Uddin! 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 <img src="https://komarev.com/ghpvc/?username=imtiaj-007&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true&base=1112" alt="imtiaj-007" align="right" />
 </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
 <a href="https://trendshift.io/developers/2235" target="_blank"></a>
 
 Welcome to my GitHub! I'm a Software Developer, passionate about building scalable web apps, backend services, and AI-driven platforms. I enjoy turning complex problems into elegant solutions and love shipping clean, production-ready code.
@@ -34,6 +34,8 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
   </div>
 </div>
 
+## 🏆 Checkout My Trophies
+
 <div align="center" style="margin-bottom: 10px;">
 <picture>
   <source
@@ -48,7 +50,10 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 </picture>
 </div>
 
-## A little more About Me
+```bash
+```
+
+## ℹ️ A little more About Me
 
 ```js
 const imtiaj = {
@@ -83,7 +88,7 @@ const imtiaj = {
 };
 ```
 
-## Checkout My Github Stats
+## 📊 Checkout My Github Stats
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0NmR2dWlpYnZzd2xxdXZkOHJ0cnNzazdrZTdvcHRnZmhzdnF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Kd5t6OCS4AG9MxA0e/giphy.gif" width="330" align="right" style="margin-top: 25px" >
 
