@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 
 ## 🏆 Checkout My Trophies
 
-<div align="center" style="margin-bottom: 10px;">
+<div align="center" width="100%" style="margin-bottom: 10px;">
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&theme=tokyonight&no-frame=true"
@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 ```bash
 ```
 
-## ℹ️ A little more About Me
+## 
 
 ```js
 const imtiaj = {
