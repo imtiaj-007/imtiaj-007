@@ -19,23 +19,32 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 
   <p style="font-weight: 500">Connect With Me</p>
   <div>
-    <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/sk-imtiaj-uddin-b26432254" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/imtiaj-007" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://instagram.com/your-profile" target="_blank">
+    <a href="https://www.instagram.com/soul.survivor_27" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://x.com/your-handle" target="_blank">
+    <a href="https://x.com/imtiaj_007" target="_blank">
       <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
     </a>
   </div>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaj-007" alt="imtiaj-007" /></a> </p>
-
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&theme=tokyonight&no-frame=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&no-frame=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=imtiaj-007&no-frame=true" />
+</picture>
 
 ## A little more About Me
 
@@ -74,42 +83,42 @@ const imtiaj = {
 
 ## Checkout My Github Stats
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0NmR2dWlpYnZzd2xxdXZkOHJ0cnNzazdrZTdvcHRnZmhzdnF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Kd5t6OCS4AG9MxA0e/giphy.gif" width="368" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0NmR2dWlpYnZzd2xxdXZkOHJ0cnNzazdrZTdvcHRnZmhzdnF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Kd5t6OCS4AG9MxA0e/giphy.gif" width="330" align="right" style="margin-top: 25px" >
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show_icons=true&theme=tokyonight&card_width=465&card-height=320"
+    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show_icons=true&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=465&card-height=320"
+    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=465&card-height=320" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&theme=tokyonight&card_width=465&card-height=320"
+    srcset="https://streak-stats.demolab.com?user=imtiaj-007&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&card_width=465&card-height=320"
+    srcset="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://streak-stats.demolab.com?user=imtiaj-007&card_width=465&card-height=320" />
+  <img align="left" src="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&theme=tokyonight&card_width=465&card-height=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=465&card-height=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=465&card-height=320" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 
