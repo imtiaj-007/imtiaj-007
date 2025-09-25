@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
   </div>
 </div>
 
+<div align="center" style="margin-bottom: 10px;">
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&theme=tokyonight&no-frame=true"
@@ -45,6 +46,7 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
   />
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=imtiaj-007&no-frame=true" />
 </picture>
+</div>
 
 ## A little more About Me
 
