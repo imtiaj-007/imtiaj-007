@@ -50,10 +50,13 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 </picture>
 </div>
 
-```bash
+```js
+const user = "SK Imtiaj Uddin"
+const place = "Kolkata, West Bengal, India"
+const hobbies = ["Watching Movies", "Playing Video Games", "Travelling]
 ```
 
-## 
+## ℹ️ A little more About Me
 
 ```js
 const imtiaj = {
