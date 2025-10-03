@@ -93,7 +93,7 @@ const imtiaj = {
 
 ## 📊 Checkout My Github Stats
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0NmR2dWlpYnZzd2xxdXZkOHJ0cnNzazdrZTdvcHRnZmhzdnF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Kd5t6OCS4AG9MxA0e/giphy.gif" width="340" align="right" style="margin-top: 25px" >
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0NmR2dWlpYnZzd2xxdXZkOHJ0cnNzazdrZTdvcHRnZmhzdnF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Kd5t6OCS4AG9MxA0e/giphy.gif" width="340" height="530" align="right" style="padding-top: 25px" >
 
 <picture>
   <source
