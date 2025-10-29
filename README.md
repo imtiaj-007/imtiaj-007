@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 ```js
 const user = "SK Imtiaj Uddin"
 const place = "Kolkata, West Bengal, India"
-const hobbies = ["Watching Movies", "Playing Video Games", "Travelling]
+const hobbies = ["Watching Movies", "Playing Video Games", "Travelling"]
 ```
 
 ## ℹ️ A little more About Me
@@ -61,8 +61,8 @@ const hobbies = ["Watching Movies", "Playing Video Games", "Travelling]
 ```js
 const imtiaj = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "C++"],
-    askMeAbout: ["Web Dev", "UI/UX", "AI", "ML", "Tech Trends"],
+    code: ["TypeScript", "JavaScript", "Python", "C++"],
+    askMeAbout: ["Web Dev", "AI", "ML", "UI/UX", "Tech Trends"],
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
@@ -77,17 +77,24 @@ const imtiaj = {
         cloudServices: {
             aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase DB", "Supabase DB", "Redis"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase DB", "Supabase DB", "Redis"],        
+        generativeAI: {
+            llms: ["OpenAI", "Google AI", "Anthropic"],
+            frameworks: ["LangChain", "Hugging Face"],
+            techniques: ["RAG", "Chat Orchestration", "Semantic Search"],
+            vectorDB: ["FAISS", "Pinecone"],
+            mlSpecialization: ["NLP", "Deep Learning", "CNNs"],
+            codingAssistants: ["Cursor", "Claude Code", "Code Rabbit"],
+        },
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Claude", "Deepseek", "Cursor"],
     },
     architecture: {
-        frontEnd: ["Monolithic", "Modular", "Component Based", "Micro Frontend"],
+        frontEnd: ["Modular", "Component-Based", "Micro Frontend"],
         backEnd: ["Monolithic", "Microservices", "Serverless"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    currentFocus: "Building production-grade AI systems with LLMs & RAG",
+    funFact: "I talk to LLMs more than humans — they respond faster."
 };
 ```
 
