@@ -73,6 +73,7 @@ const imtiaj = {
             js: ["Node.js", "Express.js", "NestJS"],
             python: ["FastAPI", "Django"],
         },
+        mobile: ["React Native", "Expo"],
         devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
             aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
@@ -80,20 +81,20 @@ const imtiaj = {
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase DB", "Supabase DB", "Redis"],        
         generativeAI: {
             llms: ["OpenAI", "Google AI", "Anthropic"],
-            frameworks: ["LangChain", "Hugging Face"],
+            frameworks: ["LangChain", "LangGraph", "LangSmith", "Hugging Face"],
             techniques: ["RAG", "Chat Orchestration", "Semantic Search"],
-            vectorDB: ["FAISS", "Pinecone"],
+            vectorDB: ["FAISS", "ChromaDB", "Pinecone"],
             mlSpecialization: ["NLP", "Deep Learning", "CNNs"],
             codingAssistants: ["Cursor", "Claude Code", "Code Rabbit"],
         },
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        misc: ["REST APIs", "WebSockets", "Cloud Functions"],
     },
     architecture: {
         frontEnd: ["Modular", "Component-Based", "Micro Frontend"],
         backEnd: ["Monolithic", "Microservices", "Serverless"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Building production-grade AI systems with LLMs & RAG",
+    currentFocus: "Building production-grade GenAI agentic applications",
     funFact: "I talk to LLMs more than humans — they respond faster."
 };
 ```
@@ -104,26 +105,26 @@ const imtiaj = {
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show_icons=true&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-stats-imtiaj.vercel.app/api?username=imtiaj-007&show_icons=true&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-stats-imtiaj.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-imtiaj.vercel.app/api?username=imtiaj-007&show=prs_merged,prs_merged_percentage&show_icons=true&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-streak-stats-imtiaj.vercel.app?user=imtiaj-007&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-streak-stats-imtiaj.vercel.app?user=imtiaj-007&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true" />
+  <img align="left" src="https://github-readme-streak-stats-imtiaj.vercel.app?user=imtiaj-007&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 <picture>
