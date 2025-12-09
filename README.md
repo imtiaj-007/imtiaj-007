@@ -129,14 +129,14 @@ const imtiaj = {
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-stats-imtiaj.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-stats-imtiaj.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-imtiaj.vercel.app/api/top-langs/?username=imtiaj-007&show_icons=true&text_bold=true&langs_count=6&layout=compact&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 
