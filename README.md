@@ -117,14 +117,14 @@ const imtiaj = {
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-streak-stats-vijaypur.vercel.app?user=imtiaj-007&theme=tokyonight&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true"
+    srcset="https://github-readme-streak-stats-vijaypur.vercel.app?user=imtiaj-007&card_width=440&card-height=280&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://streak-stats.demolab.com?user=imtiaj-007&card_width=440&card-height=280&hide_border=true" />
+  <img align="left" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=imtiaj-007&card_width=440&card-height=280&hide_border=true" />
 </picture>
 
 <picture>
