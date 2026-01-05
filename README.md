@@ -39,14 +39,14 @@ Welcome to my GitHub! I'm a Software Developer, passionate about building scalab
 <div align="center" width="100%" style="margin-bottom: 10px;">
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&theme=tokyonight&no-frame=true"
+    srcset="https://github-profile-trophy-imtiaj.vercel.app/?username=imtiaj-007&theme=tokyonight&no-frame=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=imtiaj-007&no-frame=true"
+    srcset="https://github-profile-trophy-imtiaj.vercel.app/?username=imtiaj-007&no-frame=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=imtiaj-007&no-frame=true" />
+  <img align="left" src="https://github-profile-trophy-imtiaj.vercel.app/?username=imtiaj-007&no-frame=true" />
 </picture>
 </div>
 
